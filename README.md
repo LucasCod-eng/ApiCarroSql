@@ -1,7 +1,3 @@
-# Claro, aqui está um exemplo de README para o repositório "ApiCarroSql":
-
----
-
 # API Carro SQL
 
 Este repositório contém uma API para gerenciar informações sobre carros, utilizando um banco de dados SQL para armazenamento e recuperação de dados.
